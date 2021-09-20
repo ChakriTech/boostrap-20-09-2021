@@ -1,0 +1,25 @@
+.navbar-inverse{
+    background: transparent;
+    border: transparent;
+    margin: 0px;
+    margin-bottom: 50px;
+}
+
+.navbar-inverse .navbar-nav>li>a {
+    color:#6e6d7a;
+    font-family: 'Noto Serif', serif;
+}
+.navbar-inverse .navbar-nav>li>a:hover{
+    color: #ea4c89;
+}
+.navbar-inverse .navbar-brand {
+    color: black;
+    font-family: 'Monoton', cursive;
+    font-size: 50px;
+}
+.navbar-inverse .navbar-brand:hover{
+    color: #ea4c89;
+}
+own1{
+    border:#ea4c89;
+}
